@@ -12,7 +12,7 @@
 
 
 
-1. Descargar los proyectos adjuntos y el script SQL
+1. Descargar los proyectos adjuntos y el script SQL desde el branch
 
 
 
