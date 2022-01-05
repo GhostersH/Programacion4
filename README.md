@@ -30,6 +30,12 @@
 
 5. Para ejecutarlos revisar el string connection (poner el nombre del servidor local de su equipo)
 
+6. PARA PODER INICIAR SESION POR FAVOR INGRESE CON EL SUPE-USUARIO
+
+Usuario:ADMINst
+Contrasenia: 1234
+
+
 
 
 
